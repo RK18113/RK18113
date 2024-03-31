@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramakrishnan</h1>
-<h3 align="center">A aspiring fullstack developer from India</h3>
+<h3 align="center">An Aspiring fullstack developer from India</h3>
 
 - 🔭 I’m currently working on [PECCON-25](https://github.com/RK18113/PECCON-25)
 
