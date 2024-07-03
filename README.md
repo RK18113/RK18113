@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PECCON-25](https://github.com/RK18113/PECCON-25)
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **PERN Stack**
 
 - 📫 How to reach me **ramakrishnanilanghovan@gmail.com**
 
