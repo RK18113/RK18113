@@ -13,7 +13,6 @@
 <h3 align="left">Projects:</h3>
 <p align="left">
   <ul>
-    <li><strong>Online Compiler:</strong> ✨ Under Construction.</li>
     <li><strong>PECCON-25:</strong> The official website for the PECCON-25 International Conference.</li>
     <li><strong>Flappy Bird:</strong> My contribution to the Flappy Bird club project (CodeChef club).</li>
     <li><strong>MailChef:</strong> Club project, working as the backend lead.</li>
