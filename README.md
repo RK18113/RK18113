@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramakrishnan</h1>
 <h3 align="center">A Curious Software Guy from India</h3>
 
-- 🔭 I’m currently working on building an online compiler.
+- 🔭 I’m currently open to working on MERN Projects.
 - 🌱 I’m currently learning Full Stack Web Development (MERN).
 - 📫 How to reach me: **ramakrishnanilanghovan@gmail.com**
 
