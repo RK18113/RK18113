@@ -1,43 +1,41 @@
-<h1 align="center">Hi 👋, I'm Ramakrishnan</h1>
+# Hi, I'm Ramakrishnan 👋
 
-- 🔭 I’m currently open to working on MERN Projects.
-- 🌱 I’m currently learning Full Stack Web Development (MERN) and Machine Learning.
-- 📫 How to reach me: **ramakrishnanilanghovan@gmail.com**
+I build systems that try to extract truth from messy, real-world sensor data — currently at the intersection of computer vision and robotics.
 
-<h3 align="left">About me</h3>
-<p align="left">
-  I'm a 2nd CSE student at VIT Chennai (I'm also from Chennai, btw). I am interested in all sorts of tech and love learning and exploring them. I like learning and building websites in my free time. I am currently learning backend development (Node.js with Express and MongoDB), with some experience in HTML, CSS, JavaScript, and React. I also have knowledge of general programming languages like C, C++, Java, and Python.
+- 🔬 Research Assistant at VIT Chennai, working on **X-ray fracture classification** and **3D dental mesh analysis**
+- 🏭 Previously built and benchmarked **YOLO/YOLOX models** for real-time screw detection on conveyor belts (ML Internship @ Vchannel)
+- 🌱 Started out as a full-stack dev — led **Vista**, a capstone management platform now used by 3,500+ students at VIT
+- 🎯 Currently chasing: autonomous perception — closing the loop between seeing and acting, safely, in real time
+- 📫 Reach me at **ramakrishnanilanghovan@gmail.com**
+
+### The short version of a longer story
+
+I started in web dev, building interfaces. Somewhere along the way I realized the problems I actually cared about weren't in the interface layer — they were one layer down, in *perception*. That pivot took me from cleaning 5G network datasets, to medical imaging (fractures, dental meshes), to object detection on factory floors, to where I am now: vision systems that have to work in the real world, not just on a clean benchmark.
+
+### Currently working with
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 </p>
 
-<h3 align="left">Projects:</h3>
-<p align="left">
-  <ul>
-    <li><strong>PECCON-25:</strong> The official website for the PECCON-25 International Conference.</li>
-    <li><strong>Flappy Bird:</strong> My contribution to the Flappy Bird club project (CodeChef club).</li>
-    <li><strong>MailChef:</strong> Club project, working as the backend lead.</li>
-    <li><strong>Pokedex:</strong> A fun little project using PokeAPI, at least the 10-year-old me will be very proud 🗿.</li>
-    <li><strong>To-Do List:</strong> There has to be a to-do list 😅.</li>
-    <li><strong>Weather App:</strong> Again c'mon this gotta be there!</li>
-  </ul>
-</p>
+### Connect
 
-<h3 align="left">Known Skills:</h3>
-<p align="left">
-  <ul>
-    <li>Full Stack Web Development (MERN)</li>
-    <li>Programming Languages - C, C++, JavaScript, Python, Java</li>
-  </ul>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramakrishnan-ilanghovan-6a54b028b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramakrishnanilanghovan@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ramakrishnan-ilanghovan-6a54b028b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramakrishnan ilanghovan" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/ramakrishnanilanghovan" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ramakrishnanilanghovan" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/ramakrishnanilanghovan/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ramakrishnanilanghovan" height="30" width="40" />
-  </a>
-</p>
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=RK18113&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RK18113&hide_border=true" width="48%" />
