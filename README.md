@@ -4,7 +4,7 @@ I build systems that try to extract truth from messy, real-world sensor data —
 
 - 🔬 Research Assistant at VIT Chennai, working on **X-ray fracture classification** and **3D dental mesh analysis**
 - 🏭 Previously built and benchmarked **YOLO/YOLOX models** for real-time screw detection on conveyor belts (ML Internship @ Vchannel)
-- 🌱 Started out as a full-stack dev — led **Vista**, a capstone management platform now used by 3,500+ students at VIT
+- 🌱 Started out as a full-stack dev — led **Vista** backend, a capstone management platform now used to manage 3,500+ students at VIT
 - 🎯 Currently chasing: autonomous perception — closing the loop between seeing and acting, safely, in real time
 - 📫 Reach me at **ramakrishnanilanghovan@gmail.com**
 
@@ -36,6 +36,3 @@ I started in web dev, building interfaces. Somewhere along the way I realized th
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramakrishnanilanghovan@gmail.com)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=RK18113&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RK18113&hide_border=true" width="48%" />
